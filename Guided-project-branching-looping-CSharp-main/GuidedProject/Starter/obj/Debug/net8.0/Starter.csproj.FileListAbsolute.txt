@@ -12,3 +12,4 @@ C:\Users\Michelle\VSCode\C#VSC\Guided-project-branching-looping-CSharp-main\Guid
 C:\Users\Michelle\VSCode\C#VSC\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
 C:\Users\Michelle\VSCode\C#VSC\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
 C:\Users\Michelle\VSCode\C#VSC\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
+C:\Users\Michelle\VSCode\C#VSC\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.sourcelink.json
