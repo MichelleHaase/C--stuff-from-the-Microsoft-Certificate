@@ -1,0 +1,14 @@
+C:\Users\Michelle\VSCode\C#VSC\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter_challenge.exe
+C:\Users\Michelle\VSCode\C#VSC\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter_challenge.deps.json
+C:\Users\Michelle\VSCode\C#VSC\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter_challenge.runtimeconfig.json
+C:\Users\Michelle\VSCode\C#VSC\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter_challenge.dll
+C:\Users\Michelle\VSCode\C#VSC\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter_challenge.pdb
+C:\Users\Michelle\VSCode\C#VSC\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter_challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michelle\VSCode\C#VSC\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter_challenge.AssemblyInfoInputs.cache
+C:\Users\Michelle\VSCode\C#VSC\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter_challenge.AssemblyInfo.cs
+C:\Users\Michelle\VSCode\C#VSC\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter_challenge.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\VSCode\C#VSC\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter_challenge.dll
+C:\Users\Michelle\VSCode\C#VSC\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\refint\Starter_challenge.dll
+C:\Users\Michelle\VSCode\C#VSC\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter_challenge.pdb
+C:\Users\Michelle\VSCode\C#VSC\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter_challenge.genruntimeconfig.cache
+C:\Users\Michelle\VSCode\C#VSC\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter_challenge.dll

@@ -1,0 +1,14 @@
+C:\Users\Michelle\VSCode\C#VSC\TestProjectMicrosoftCourse\bin\Debug\net8.0\TestProjectMicrosoftCourse.exe
+C:\Users\Michelle\VSCode\C#VSC\TestProjectMicrosoftCourse\bin\Debug\net8.0\TestProjectMicrosoftCourse.deps.json
+C:\Users\Michelle\VSCode\C#VSC\TestProjectMicrosoftCourse\bin\Debug\net8.0\TestProjectMicrosoftCourse.runtimeconfig.json
+C:\Users\Michelle\VSCode\C#VSC\TestProjectMicrosoftCourse\bin\Debug\net8.0\TestProjectMicrosoftCourse.dll
+C:\Users\Michelle\VSCode\C#VSC\TestProjectMicrosoftCourse\bin\Debug\net8.0\TestProjectMicrosoftCourse.pdb
+C:\Users\Michelle\VSCode\C#VSC\TestProjectMicrosoftCourse\obj\Debug\net8.0\TestProjectMicrosoftCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michelle\VSCode\C#VSC\TestProjectMicrosoftCourse\obj\Debug\net8.0\TestProjectMicrosoftCourse.AssemblyInfoInputs.cache
+C:\Users\Michelle\VSCode\C#VSC\TestProjectMicrosoftCourse\obj\Debug\net8.0\TestProjectMicrosoftCourse.AssemblyInfo.cs
+C:\Users\Michelle\VSCode\C#VSC\TestProjectMicrosoftCourse\obj\Debug\net8.0\TestProjectMicrosoftCourse.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\VSCode\C#VSC\TestProjectMicrosoftCourse\obj\Debug\net8.0\TestProjectMicrosoftCourse.dll
+C:\Users\Michelle\VSCode\C#VSC\TestProjectMicrosoftCourse\obj\Debug\net8.0\refint\TestProjectMicrosoftCourse.dll
+C:\Users\Michelle\VSCode\C#VSC\TestProjectMicrosoftCourse\obj\Debug\net8.0\TestProjectMicrosoftCourse.pdb
+C:\Users\Michelle\VSCode\C#VSC\TestProjectMicrosoftCourse\obj\Debug\net8.0\TestProjectMicrosoftCourse.genruntimeconfig.cache
+C:\Users\Michelle\VSCode\C#VSC\TestProjectMicrosoftCourse\obj\Debug\net8.0\ref\TestProjectMicrosoftCourse.dll

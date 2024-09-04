@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "testing_Suff/1.0.0": {
+        "runtime": {
+          "testing_Suff.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testing_Suff/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

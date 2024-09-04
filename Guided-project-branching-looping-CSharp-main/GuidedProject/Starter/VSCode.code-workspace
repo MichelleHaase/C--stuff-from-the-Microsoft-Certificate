@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "VSCode",
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "Hello World.sln"
+	}
+}

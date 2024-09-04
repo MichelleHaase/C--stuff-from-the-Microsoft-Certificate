@@ -1,0 +1,14 @@
+C:\Users\Michelle\VSCode\C#VSC\for_loops_FizzBuzz\bin\Debug\net8.0\Next_project.exe
+C:\Users\Michelle\VSCode\C#VSC\for_loops_FizzBuzz\bin\Debug\net8.0\Next_project.deps.json
+C:\Users\Michelle\VSCode\C#VSC\for_loops_FizzBuzz\bin\Debug\net8.0\Next_project.runtimeconfig.json
+C:\Users\Michelle\VSCode\C#VSC\for_loops_FizzBuzz\bin\Debug\net8.0\Next_project.dll
+C:\Users\Michelle\VSCode\C#VSC\for_loops_FizzBuzz\bin\Debug\net8.0\Next_project.pdb
+C:\Users\Michelle\VSCode\C#VSC\for_loops_FizzBuzz\obj\Debug\net8.0\Next_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michelle\VSCode\C#VSC\for_loops_FizzBuzz\obj\Debug\net8.0\Next_project.AssemblyInfoInputs.cache
+C:\Users\Michelle\VSCode\C#VSC\for_loops_FizzBuzz\obj\Debug\net8.0\Next_project.AssemblyInfo.cs
+C:\Users\Michelle\VSCode\C#VSC\for_loops_FizzBuzz\obj\Debug\net8.0\Next_project.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\VSCode\C#VSC\for_loops_FizzBuzz\obj\Debug\net8.0\Next_project.dll
+C:\Users\Michelle\VSCode\C#VSC\for_loops_FizzBuzz\obj\Debug\net8.0\refint\Next_project.dll
+C:\Users\Michelle\VSCode\C#VSC\for_loops_FizzBuzz\obj\Debug\net8.0\Next_project.pdb
+C:\Users\Michelle\VSCode\C#VSC\for_loops_FizzBuzz\obj\Debug\net8.0\Next_project.genruntimeconfig.cache
+C:\Users\Michelle\VSCode\C#VSC\for_loops_FizzBuzz\obj\Debug\net8.0\ref\Next_project.dll

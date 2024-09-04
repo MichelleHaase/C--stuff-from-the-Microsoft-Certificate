@@ -1,0 +1,14 @@
+C:\Users\Michelle\VSCode\C#VSC\testProjectMicrosoft2\bin\Debug\net8.0\testProjectMicrosoft2.exe
+C:\Users\Michelle\VSCode\C#VSC\testProjectMicrosoft2\bin\Debug\net8.0\testProjectMicrosoft2.deps.json
+C:\Users\Michelle\VSCode\C#VSC\testProjectMicrosoft2\bin\Debug\net8.0\testProjectMicrosoft2.runtimeconfig.json
+C:\Users\Michelle\VSCode\C#VSC\testProjectMicrosoft2\bin\Debug\net8.0\testProjectMicrosoft2.dll
+C:\Users\Michelle\VSCode\C#VSC\testProjectMicrosoft2\bin\Debug\net8.0\testProjectMicrosoft2.pdb
+C:\Users\Michelle\VSCode\C#VSC\testProjectMicrosoft2\obj\Debug\net8.0\testProjectMicrosoft2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michelle\VSCode\C#VSC\testProjectMicrosoft2\obj\Debug\net8.0\testProjectMicrosoft2.AssemblyInfoInputs.cache
+C:\Users\Michelle\VSCode\C#VSC\testProjectMicrosoft2\obj\Debug\net8.0\testProjectMicrosoft2.AssemblyInfo.cs
+C:\Users\Michelle\VSCode\C#VSC\testProjectMicrosoft2\obj\Debug\net8.0\testProjectMicrosoft2.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\VSCode\C#VSC\testProjectMicrosoft2\obj\Debug\net8.0\testProjectMicrosoft2.dll
+C:\Users\Michelle\VSCode\C#VSC\testProjectMicrosoft2\obj\Debug\net8.0\refint\testProjectMicrosoft2.dll
+C:\Users\Michelle\VSCode\C#VSC\testProjectMicrosoft2\obj\Debug\net8.0\testProjectMicrosoft2.pdb
+C:\Users\Michelle\VSCode\C#VSC\testProjectMicrosoft2\obj\Debug\net8.0\testProjectMicrosoft2.genruntimeconfig.cache
+C:\Users\Michelle\VSCode\C#VSC\testProjectMicrosoft2\obj\Debug\net8.0\ref\testProjectMicrosoft2.dll

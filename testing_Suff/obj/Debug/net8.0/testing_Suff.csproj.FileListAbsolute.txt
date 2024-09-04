@@ -1,0 +1,14 @@
+C:\Users\Michelle\VSCode\C#VSC\testing_Suff\bin\Debug\net8.0\testing_Suff.exe
+C:\Users\Michelle\VSCode\C#VSC\testing_Suff\bin\Debug\net8.0\testing_Suff.deps.json
+C:\Users\Michelle\VSCode\C#VSC\testing_Suff\bin\Debug\net8.0\testing_Suff.runtimeconfig.json
+C:\Users\Michelle\VSCode\C#VSC\testing_Suff\bin\Debug\net8.0\testing_Suff.dll
+C:\Users\Michelle\VSCode\C#VSC\testing_Suff\bin\Debug\net8.0\testing_Suff.pdb
+C:\Users\Michelle\VSCode\C#VSC\testing_Suff\obj\Debug\net8.0\testing_Suff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michelle\VSCode\C#VSC\testing_Suff\obj\Debug\net8.0\testing_Suff.AssemblyInfoInputs.cache
+C:\Users\Michelle\VSCode\C#VSC\testing_Suff\obj\Debug\net8.0\testing_Suff.AssemblyInfo.cs
+C:\Users\Michelle\VSCode\C#VSC\testing_Suff\obj\Debug\net8.0\testing_Suff.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\VSCode\C#VSC\testing_Suff\obj\Debug\net8.0\testing_Suff.dll
+C:\Users\Michelle\VSCode\C#VSC\testing_Suff\obj\Debug\net8.0\refint\testing_Suff.dll
+C:\Users\Michelle\VSCode\C#VSC\testing_Suff\obj\Debug\net8.0\testing_Suff.pdb
+C:\Users\Michelle\VSCode\C#VSC\testing_Suff\obj\Debug\net8.0\testing_Suff.genruntimeconfig.cache
+C:\Users\Michelle\VSCode\C#VSC\testing_Suff\obj\Debug\net8.0\ref\testing_Suff.dll
