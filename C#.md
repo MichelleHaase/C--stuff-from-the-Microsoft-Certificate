@@ -1,28 +1,29 @@
 # C#
 
 ## Quickfix Formatting in VSCode:  Shift Alt F
-```
+
 Or command Panel (Ctrl shift P) Format Document"
 
-Console. --> for .Net console
-Console.WriteLine()--> writes text + \n
-Console.Write() --> writes text
-lorem ipsum --> string
-```
+* Console. --> for .Net console
+* Console.WriteLine()--> writes text + \n
+* Console.Write() --> writes text
+
+
 # Data type names
-```
-'a' --> char, one character
-123 --> auto Int
-1.25 --> auto double (genauer bei mehr nachkommastellen wie float)
-1.25f --> float f- literal suffix
-1.25m--> decimal (noch genauer als double, ideal fuer Mathe)
-true/false bools
-```
+
+* 'a' --> char, one character
+* 123 --> auto Int
+* 1.25 --> auto double (genauer bei mehr nachkommastellen wie float)
+* 1.25f --> float f- literal suffix
+* 1.25m--> decimal (noch genauer als double, ideal fuer Mathe)
+* true/false bools
+* lorem ipsum --> string
+
 # declare vars
-```
-Var declarienen --> Var namen keine Sonderzeichen bsp 
-      int lala:
-      bool LULU
+```cs
+// Var declarienen --> Var namen keine Sonderzeichen bsp 
+      int lala;
+      bool LULU;
 string firstName;
 firstName = "Bob";
 Console.WriteLine(firstName);
@@ -31,31 +32,31 @@ string firstName = "Bob";
 Console.WriteLine(firstName);
 ```
 # Implicitly declare local vars
-```
-implicitly typed local variable is created by using the"var"keyword followed by a variable initialization eg
+* the vars type is infered by the compiler as it's automatically done in python
+* vars can't be declared empty like var x; or var x = null;
+* it's not actually dynamic since as soon as it's infered it's Strongly Typed at Compile-Time
+```cs
+// implicitly typed local variable is created by using the"var"keyword followed by a variable initialization eg
 var message = "Hello world!";
 ```
 # strings
-```
-escape characters \n \t like python
-" can be printed with a \ in front \" -> "
-For printing \ eg in path \\ -> \
-@"string + whitespaces" no vars, named: Verbatim string literal
-\u for Unicode UTF-16 chars
-```
-## String concatenation
-```
-Var1 + var2 = Var1var2 
-string name= "Luna";
-string message= "Hi";
-var Info= message + " " +name;
-Console.WriteLine (Info);
 
-string firstName = "Bob";
-string greeting = "Hello";
-string message = greeting + " " + firstName + "!";
-Console.WriteLine(message);
-```
+* whitespace characters \n \t like python
+* " can be printed with a '\' in front \" -> ", standart escape char
+* For printing \ eg in path \\ -> \
+* Verbatim string literal : string verbatim = @"string + whitespaces"   
+    * string path = @"C:\Folder\File.txt";
+    * preserves all whitespace, breaks etc without the need to escape anything
+* \u for Unicode UTF-16 chars
+
+## String concatenation
+
+* Var1 + var2 == Var1var2 
+* string name= "Luna";
+* string message= "Hi";
+* var Info= message + " " +name;
+* Console.WriteLine (Info); == Hi Luna
+
 ## string interpolation
 ```
 like f-strings in python with $ for f, also curleys for vars
