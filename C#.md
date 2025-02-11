@@ -8,6 +8,13 @@ Or command Panel (Ctrl shift P) Format Document"
 * Console.WriteLine()--> writes text + \n
 * Console.Write() --> writes text
 
+* numbers get added wrongly because they're using a '.' instead of a ','
+```cs
+using System.Globalization;
+
+Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture; // Uses '.' for decimals
+Thread.CurrentThread.CurrentUICulture = CultureInfo.InvariantCulture;
+```
 
 # Data type names
 
@@ -472,5 +479,40 @@ Console.WriteLine($"Last number: {current}");
 body for each element of the collection.   
 * The do-while statement: conditionally executes its body one or more times.  
 * The while statement: conditionally executes its body zero or more times.  
+
+# converting/ converting Datatypes
+
+* (int) (float) (decimal) - numbers can be converted like this strings not
+* var1.ToString() - int to string
+* int.Parse(var1) || Convert.ToInt32(var1) - string to int
+```cs
+decimal myDecimal = 3.14m;
+int myInt = (int)myDecimal;
+```
+casting, truncates everything after the comma
+```cs
+int value = (int)1.5m; // casting truncates
+Console.WriteLine(value); // -> 1
+
+int value2 = Convert.ToInt32(1.5m); // converting rounds up
+Console.WriteLine(value2); // -> 2
+```
+* narrowing conversion - converting from dataype that can hold more info than the destination type
+* widening converstion - opposite
+* to not created an error TryParse() should be used for conversion of str to int
+    * returns true and out or false
+```cs
+string value = "102";
+int result = 0; // int result; works too
+if (int.TryParse(value, out result))
+{
+   Console.WriteLine($"Measurement: {result}");
+}
+else
+{
+   Console.WriteLine("Unable to report the measurement.");
+}
+```
+
 
 

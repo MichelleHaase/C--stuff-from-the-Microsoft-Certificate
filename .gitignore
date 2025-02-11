@@ -1,4 +1,7 @@
 *.json
 *csproj*
 *cache
+*.dll
+*.exe
+*.pdb
 
