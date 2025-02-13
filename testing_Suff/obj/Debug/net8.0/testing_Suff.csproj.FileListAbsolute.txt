@@ -12,3 +12,11 @@ C:\Users\Michelle\VSCode\C#VSC\testing_Suff\obj\Debug\net8.0\refint\testing_Suff
 C:\Users\Michelle\VSCode\C#VSC\testing_Suff\obj\Debug\net8.0\testing_Suff.pdb
 C:\Users\Michelle\VSCode\C#VSC\testing_Suff\obj\Debug\net8.0\testing_Suff.genruntimeconfig.cache
 C:\Users\Michelle\VSCode\C#VSC\testing_Suff\obj\Debug\net8.0\ref\testing_Suff.dll
+C:\Users\haase\VSCode\C--stuff-from-the-Microsoft-Certificate\testing_Suff\obj\Debug\net8.0\testing_Suff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haase\VSCode\C--stuff-from-the-Microsoft-Certificate\testing_Suff\obj\Debug\net8.0\testing_Suff.AssemblyInfoInputs.cache
+C:\Users\haase\VSCode\C--stuff-from-the-Microsoft-Certificate\testing_Suff\obj\Debug\net8.0\testing_Suff.AssemblyInfo.cs
+C:\Users\haase\VSCode\C--stuff-from-the-Microsoft-Certificate\testing_Suff\obj\Debug\net8.0\testing_Suff.csproj.CoreCompileInputs.cache
+C:\Users\haase\VSCode\C--stuff-from-the-Microsoft-Certificate\testing_Suff\obj\Debug\net8.0\testing_Suff.sourcelink.json
+C:\Users\haase\VSCode\C--stuff-from-the-Microsoft-Certificate\testing_Suff\obj\Debug\net8.0\testing_Suff.dll
+C:\Users\haase\VSCode\C--stuff-from-the-Microsoft-Certificate\testing_Suff\obj\Debug\net8.0\refint\testing_Suff.dll
+C:\Users\haase\VSCode\C--stuff-from-the-Microsoft-Certificate\testing_Suff\obj\Debug\net8.0\testing_Suff.pdb

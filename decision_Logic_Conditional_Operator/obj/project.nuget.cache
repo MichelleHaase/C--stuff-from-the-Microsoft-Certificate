@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "b5mZNjY31AQ=",
+  "dgSpecHash": "FscCKSS9Dak=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Michelle\\VSCode\\C#VSC\\decision_Logic_Conditional_Operator\\testProjectMicrosoft2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\haase\\VSCode\\C--stuff-from-the-Microsoft-Certificate\\decision_Logic_Conditional_Operator\\testProjectMicrosoft2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haase\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\haase\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\haase\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\haase\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.12\\microsoft.netcore.app.host.win-x64.8.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
